@@ -5,7 +5,11 @@
 Pugbutts Official Robot is a bot hosted by rovertdude#3439 that does many things - such as moderation to music!
 The bot invite is at https://discordapp.com/oauth2/authorize?client_id=241700775129120779&scope=bot&permissions=8
 The bot prefix is !: for each command
-The official Discord is located at https://discord.gg/014H42SGot9Ti5Dla
+The official Discord is located at https://discord.gg/014H42SGot9Ti5D
+The bot needs $20 only in order to be 24/7 on a VPS. Please help me get my goal at patreon.com/rovertdude or paypal.me/rovertdude
+
+### Donation Information
+Donations go purely to Pugbutts to get it on a VPS. If you donate and are on the DIS
 
 ### Commands
 Pugbutts Official Robot has a variety of commands, including:
