@@ -7,14 +7,13 @@ The bot invite is at https://discordapp.com/oauth2/authorize?client_id=241700775
 The bot prefix is !: for each command
 The official Discord is located at https://discord.gg/014H42SGot9Ti5D
 The bot needs $20 only in order to be 24/7 on a VPS. Please help me get my goal at patreon.com/rovertdude or paypal.me/rovertdude
-WOULD BE GREAT IF PEOPLE GAVE ME AN INVITE SOMETIMES FOR THEIR 
+Would be great if you would like to invite me to your Discord with the robot - message if you want to rovertdude#3439
 
 ### Donation Information
 Donations go purely to Pugbutts to get it on a VPS. If you donate and are on the Discord, you will get extra benefits. All donators get a longer video time limit AND instaskip on votes to skip. (plans are to change it to multiple votes)
 
 ## Association with Pugbutts
 To associate a server or bot with Pugbutts, join the official Discord and/or message rovertdude#3439 explaining it.
-
 
 ### Commands
 Pugbutts Official Robot has a variety of commands, including:
@@ -29,7 +28,7 @@ Pugbutts Official Robot has a variety of commands, including:
 
 * !:removerole (@tag) (role name, case sensitive, must have role) (mod-role only) (logged in mod-log) - Removes a role from the user
 
-- !:support (message) - Sends a message in question to our support team
+- !:support (message) - Sends a message in question to our support team, can also be used for suggestions
 
 - !:makemeowner - Totally makes you owner of the Discord! Totally! 100% totally legit
 
@@ -69,8 +68,6 @@ Pugbutts Official Robot has a variety of commands, including:
 
 * !:unmute (@tag) (mod-role only) (logged in mod-log) - Removes the muted role from a user
 
-- !:suggest (text) - Send a suggestion!
-
 - !:showconfig - Shows the current config options
 
 - !:avatar (@tag) - Shows the tagged user's avatar
@@ -91,8 +88,16 @@ Pugbutts Official Robot has a variety of commands, including:
 
 
 ## Roles
-The bot has a blacklist role called Grimm - add anyone to it and as long as they have it they cant use the bot! (only for that server)
+The bot has a blacklist role called simply Blacklisted - add anyone to it and as long as they have it they cant use the bot! (only for that server)
 The mod-log mentioned above is a channel you can make - logs certain cmds and more!
 
 ## Other
 There are other random commands I made that are unlisted - most are just for fun.
+
+## Bot FAQ
+Q: Who owns the bot?
+A: rovertdude
+Q: I can't use addrole when it's a valid role name!
+A: addrole is case sensitive for roles
+Q: Are you a pug?
+A: yes bb
