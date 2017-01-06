@@ -1,0 +1,89 @@
+# Pugbutts Official Robot
+## Information
+
+### Basic Information
+Pugbutts Official Robot is a bot hosted by rovertdude#3439 that does many things - such as moderation to music!
+The bot invite is at https://discordapp.com/oauth2/authorize?client_id=241700775129120779&scope=bot&permissions=8
+The bot prefix is !: for each command
+The official Discord is located at https://discord.gg/014H42SGot9Ti5Dla
+
+### Commands
+Pugbutts Official Robot has a variety of commands, including:
+
+* !:ban (@tag) (mod-role only) (logged in mod-log) - Bans the tagged user
+
+* !:kick (@tag) (mod-role only) (logged in mod-log) - Kicks the tagged user
+
+* !:config (mod-role or nsfw-channel) (discord owner only) - Change the config options (mod-role is a role, defaults to Bot Commander, nsfw-channel is a channel where porn is generally allowed)
+
+* !:addrole (@tag) (role name, case sensitive) (mod-role only) (logged in mod-log) - Adds a role to the user
+
+* !:removerole (@tag) (role name, case sensitive, must have role) (mod-role only) (logged in mod-log) - Removes a role from the user
+
+- !:support (message) - Sends a message in question to our support team
+
+- !:makemeowner - Totally makes you owner of the Discord! Totally! 100% totally legit
+
+- !:summon - Brings the bot to your voice channel (must be in a voice channel)!
+
+- !:play (text or video link) - Plays a YouTube video in a voice channel!
+
+- !:serverinv - Gives you a link to the official Discord
+
+- !:say (text) - Says the text and deletes the message (if has perms)!
+
+- !:kill (@tag) - Pretty much self explanatory
+
+- !:ship (@tag) (@tag) - Ships a user with someone else!
+
+- !:disconnect - Leaves the current voice channel
+
+- !:notifydev (text) - Notifies the developers, please only use this if needed
+
+- !:killmenow - Displays a random message in chat
+
+- !:invite - Gives the link to invite the bot to your server
+
+- !:id (@tag) - Gives your (or another users) id!
+
+- !:userinfo (@tag) - Gives basic user info on the tagged user
+
+* !:mute (@tag) (mod-role only) (logged in mod-log) - Gives the user the muted role
+
+* !:furry (@tag) (mod-role only) - Gives the user the Furry role
+
+- !:8ball (text) - Gives an 8ball answer to the text!
+
+* !:createchannel (text) (mod-role only) - Creates a channel and allows you to view it
+
+* !:createvoicechannel (text) (mod-role only) - Creates a channel and allows you to enter it
+
+* !:unmute (@tag) (mod-role only) (logged in mod-log) - Removes the muted role from a user
+
+- !:suggest (text) - Send a suggestion!
+
+- !:showconfig - Shows the current config options
+
+- !:avatar (@tag) - Shows the tagged user's avatar
+
+* !:prune (number) (mod-role only) - Removes the specified number of messages in that channel
+
+* !:banlist (mod-role only) - Shows the current Discord ban list
+
+- !:setnick (name) - Changes the bot's nickname
+
+- !:removenick - Removes the bot's nickname
+
+- !:pressf - Pay your respects!
+
+- !:isitdown (url) - Checks if a website is down
+
+- !:showblacklist - Shows the current blacklist
+
+
+## Roles
+The bot has a blacklist role called Grimm - add anyone to it and as long as they have it they cant use the bot! (only for that server)
+The mod-log mentioned above is a channel you can make - logs certain cmds and more!
+
+## Other
+There are other random commands I made that are unlisted - most are just for fun.
