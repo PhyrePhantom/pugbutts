@@ -7,9 +7,14 @@ The bot invite is at https://discordapp.com/oauth2/authorize?client_id=241700775
 The bot prefix is !: for each command
 The official Discord is located at https://discord.gg/014H42SGot9Ti5D
 The bot needs $20 only in order to be 24/7 on a VPS. Please help me get my goal at patreon.com/rovertdude or paypal.me/rovertdude
+WOULD BE GREAT IF PEOPLE GAVE ME AN INVITE SOMETIMES FOR THEIR 
 
 ### Donation Information
-Donations go purely to Pugbutts to get it on a VPS. If you donate and are on the DIS
+Donations go purely to Pugbutts to get it on a VPS. If you donate and are on the Discord, you will get extra benefits. All donators get a longer video time limit AND instaskip on votes to skip. (plans are to change it to multiple votes)
+
+## Association with Pugbutts
+To associate a server or bot with Pugbutts, join the official Discord and/or message rovertdude#3439 explaining it.
+
 
 ### Commands
 Pugbutts Official Robot has a variety of commands, including:
