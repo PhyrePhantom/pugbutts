@@ -10,7 +10,7 @@ The bot needs $20 only in order to be 24/7 on a VPS. Please help me get my goal 
 Would be great if you would like to invite me to your Discord with the robot - message if you want to rovertdude#3439
 
 ### Donation Information
-Donations go purely to Pugbutts to get it on a VPS. If you donate and are on the Discord, you will get extra benefits. All donators get a longer video time limit AND instaskip on votes to skip. (plans are to change it to multiple votes)
+Donations go purely to Pugbutts to get it on a VPS in !:donate.
 
 ## Association with Pugbutts
 To associate a server or bot with Pugbutts, join the official Discord and/or message rovertdude#3439 explaining it.
@@ -22,7 +22,11 @@ Pugbutts Official Robot has a variety of commands, including:
 
 * !:kick (@tag) (mod-role only) (logged in mod-log) - Kicks the tagged user
 
-* !:config (mod-role or nsfw-channel) (discord owner only) - Change the config options (mod-role is a role, defaults to Bot Commander, nsfw-channel is a channel where porn is generally allowed)
+- !:rule34 (text) (nsfw-channel only) - Posts NSFW (porn) from Rule34. Bypasses nsfw-channel only if the bot has the NSFW role
+
+- !:e621 (text) (nsfw-channel only) - Posts NSFW (porn) from E621. Bypasses nsfw-channel only if the bot has the NSFW role
+
+* !:config (mod-role, support-channel, blacklist-role, or nsfw-channel) (discord server owner only) - Change the config options (mod-role is a role, defaults to Bot Commander, nsfw-channel is a channel where porn is generally allowed, support-channel is used in !:serversupport, and blacklist-role is a role that cannot use the bot)
 
 * !:addrole (@tag) (role name, case sensitive) (mod-role only) (logged in mod-log) - Adds a role to the user
 
@@ -35,6 +39,10 @@ Pugbutts Official Robot has a variety of commands, including:
 - !:summon - Brings the bot to your voice channel (must be in a voice channel)!
 
 - !:play (text or video link) - Plays a YouTube video in a voice channel!
+
+- !:notifyowner (text) - Sends a message to the server owner.
+
+- !:serversupport (text) - Sends a message to the config's support-channel
 
 - !:serverinv - Gives you a link to the official Discord
 
