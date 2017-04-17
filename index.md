@@ -26,7 +26,7 @@ Pugbutts Official Robot has a variety of commands, including:
 
 - !:e621 (text) (nsfw-channel only) - Posts NSFW (porn) from E621. Bypasses nsfw-channel only if the bot has the NSFW role
 
-* !:config (mod-role, support-channel, blacklist-role, or nsfw-channel) (discord server owner only) - Change the config options (mod-role is a role, defaults to Bot Commander, nsfw-channel is a channel where porn is generally allowed, support-channel is used in !:serversupport, and blacklist-role is a role that cannot use the bot)
+* !:config (mod-role, support-channel, blacklist-role, join-leave-channel, join-role or nsfw-channel) (discord server owner only) - Change the config options (mod-role is a role, defaults to Bot Commander, nsfw-channel is a channel where porn is generally allowed, support-channel is used in !:serversupport, join-leave-channel defaults to mod-log and shows when a member joins or leaves the discord, join-role allows you to have a role added when someone joins your discord, and blacklist-role is a role that cannot use the bot)
 
 * !:addrole (@tag) (role name, case sensitive) (mod-role only) (logged in mod-log) - Adds a role to the user
 
@@ -106,6 +106,6 @@ There are other random commands I made that are unlisted - most are just for fun
 Q: Who owns the bot?
 A: rovertdude
 Q: I can't use addrole when it's a valid role name!
-A: addrole is case sensitive for roles
+A: addrole is case sensitive for roles, same thing for config
 Q: Are you a pug?
 A: yes bb
