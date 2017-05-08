@@ -26,7 +26,9 @@ Pugbutts Official Robot has a variety of commands, including:
 
 - !:e621 (text) (nsfw-channel only) - Posts NSFW (porn) from E621. Bypasses nsfw-channel only if the bot has the NSFW role
 
-* !:config (mod-role, support-channel, blacklist-role, join-leave-channel, join-role or nsfw-channel) (discord server owner only) - Change the config options (mod-role is a role, defaults to Bot Commander, nsfw-channel is a channel where porn is generally allowed, support-channel is used in !:serversupport, join-leave-channel defaults to mod-log and shows when a member joins or leaves the discord, join-role allows you to have a role added when someone joins your discord, and blacklist-role is a role that cannot use the bot)
+- !:confighelp - Shows a lot of information about config options
+
+* !:joinconfig (option) (variable) (management-role-only) - Shows config about join options, like join-leave-channel and join-role
 
 * !:addrole (@tag) (role name, case sensitive) (mod-role only) (logged in mod-log) - Adds a role to the user
 
