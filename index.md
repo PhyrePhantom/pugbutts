@@ -121,3 +121,4 @@ https://rovertdude.github.io/pugbuttsprivacypolicy/ - Our Privacy Policy
 https://rovertdude.github.io/pugbuttstos/ - Our Terms of Service
 https://rovertdude.github.io/communityguidelines/ - Our Community Guidelines
 https://github.com/rovertdude/Pugbutts-Official-Robot/blob/master/COPYRIGHT.md - Copyright
+https://github.com/rovertdude/Pugbutts-Official-Robot/blob/master/COPYRIGHT_TLDR.md - Copyright (TLDR)
