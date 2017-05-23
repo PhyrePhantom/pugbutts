@@ -115,3 +115,9 @@ Q: I can't use addrole when it's a valid role name!
 A: addrole is case sensitive for roles, same thing for config
 Q: Are you a pug?
 A: yes bb
+
+By using Pugbutts, you agree to the following
+https://rovertdude.github.io/pugbuttsprivacypolicy/ - Our Privacy Policy
+https://rovertdude.github.io/pugbuttstos/ - Our Terms of Service
+https://rovertdude.github.io/communityguidelines/ - Our Community Guidelines
+https://github.com/rovertdude/Pugbutts-Official-Robot/blob/master/COPYRIGHT.md - Copyright
