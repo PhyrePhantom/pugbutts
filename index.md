@@ -1,22 +1,22 @@
-# Pugbutts Official Robot
-## Information
+# Pugbutts Official Robot  
+## Information  
 
-### Basic Information
-Pugbutts Official Robot is a bot hosted by rovertdude#3439 that does many things - such as moderation to music!
-The bot invite is at https://discordapp.com/oauth2/authorize?client_id=241700775129120779&scope=bot&permissions=8
-The bot prefix is !: for each command
-The official Discord is located at https://discord.gg/014H42SGot9Ti5D
-The bot needs $20 only in order to be 24/7 on a VPS. Please help me get my goal at patreon.com/rovertdude or paypal.me/rovertdude
-Would be great if you would like to invite me to your Discord with the robot - message if you want to rovertdude#3439
+### Basic Information  
+Pugbutts Official Robot is a bot hosted by rovertdude#3439 that does many things - such as moderation to music!  
+The bot invite is at https://discordapp.com/oauth2/authorize?client_id=241700775129120779&scope=bot&permissions=8  
+The bot prefix is !: for each command  
+The official Discord is located at https://discord.gg/014H42SGot9Ti5D  
+The bot needs $20 only in order to be 24/7 on a VPS. Please help me get my goal at patreon.com/rovertdude or paypal.me/rovertdude  
+Would be great if you would like to invite me to your Discord with the robot - message if you want to rovertdude#3439  
 
-### Donation Information
-Donations go purely to Pugbutts to get it on a VPS in !:donate.
+### Donation Information  
+Donations go purely to Pugbutts to get it on a VPS in !:donate.  
 
-## Association with Pugbutts
-To associate a server or bot with Pugbutts, join the official Discord and/or message rovertdude#3439 explaining it.
+## Association with Pugbutts  
+To associate a server or bot with Pugbutts, join the official Discord and/or message rovertdude#3439 explaining it.  
 
-### Commands
-Pugbutts Official Robot has a variety of commands, including:
+### Commands  
+Pugbutts Official Robot has a variety of commands, including:  
 
 * !:ban (@tag) (mod-role only) (logged in mod-log) - Bans the tagged user
 
@@ -101,24 +101,24 @@ Pugbutts Official Robot has a variety of commands, including:
 - !:showblacklist - Shows the current blacklist
 
 
-## Roles
-The bot has a blacklist role called simply Blacklisted - add anyone to it and as long as they have it they cant use the bot! (only for that server)
-The mod-log mentioned above is a channel you can make - logs certain cmds and more!
+## Roles  
+The bot has a blacklist role called simply Blacklisted - add anyone to it and as long as they have it they cant use the bot! (only for that server)  
+The mod-log mentioned above is a channel you can make - logs certain cmds and more!  
 
-## Other
-There are other random commands I made that are unlisted - most are just for fun.
+## Other  
+There are other random commands I made that are unlisted - most are just for fun.  
 
-## Bot FAQ
-Q: Who owns the bot?
-A: rovertdude
-Q: I can't use addrole when it's a valid role name!
-A: addrole is case sensitive for roles, same thing for config
-Q: Are you a pug?
-A: yes bb
+## Bot FAQ  
+Q: Who owns the bot?  
+A: rovertdude  
+Q: I can't use addrole when it's a valid role name!  
+A: addrole is case sensitive for roles, same thing for config  
+Q: Are you a pug?  
+A: yes bb  
 
-By using Pugbutts, you agree to the following
-https://rovertdude.github.io/pugbuttsprivacypolicy/ - Our Privacy Policy
-https://rovertdude.github.io/pugbuttstos/ - Our Terms of Service
-https://rovertdude.github.io/communityguidelines/ - Our Community Guidelines
-https://github.com/rovertdude/Pugbutts-Official-Robot/blob/master/COPYRIGHT.md - Copyright
-https://github.com/rovertdude/Pugbutts-Official-Robot/blob/master/COPYRIGHT_TLDR.md - Copyright (TLDR)
+By using Pugbutts, you agree to the following  
+https://rovertdude.github.io/pugbuttsprivacypolicy/ - Our Privacy Policy  
+https://rovertdude.github.io/pugbuttstos/ - Our Terms of Service  
+https://rovertdude.github.io/communityguidelines/ - Our Community Guidelines  
+https://github.com/rovertdude/Pugbutts-Official-Robot/blob/master/COPYRIGHT.md - Copyright  
+https://github.com/rovertdude/Pugbutts-Official-Robot/blob/master/COPYRIGHT_TLDR.md - Copyright (TLDR)  
