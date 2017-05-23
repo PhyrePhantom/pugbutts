@@ -30,6 +30,10 @@ Pugbutts Official Robot has a variety of commands, including:
 
 * !:joinconfig (option) (variable) (management-role-only) - Shows config about join options, like join-leave-channel and join-role
 
+* !:channelconfig (option) (variable) (management-role-only) - Shows config about channel options
+
+* !:roleconfig (option) (variable) (management-role-only) - Shows role configs such as mute-role or mod-role
+
 * !:addrole (@tag) (role name, case sensitive) (mod-role only) (logged in mod-log) - Adds a role to the user
 
 * !:removerole (@tag) (role name, case sensitive, must have role) (mod-role only) (logged in mod-log) - Removes a role from the user
