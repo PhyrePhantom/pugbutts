@@ -8,6 +8,7 @@ The bot prefix is !: for each command
 The official Discord is located at https://discord.gg/014H42SGot9Ti5D  
 The bot needs $20 only in order to be 24/7 on a VPS. Please help me get my goal at patreon.com/rovertdude or paypal.me/rovertdude  
 Would be great if you would like to invite me to your Discord with the robot - message if you want to rovertdude#3439  
+Want to get partnered? Use !:submitserver!  
 
 ### Donation Information  
 Donations go purely to Pugbutts to get it on a VPS in !:donate.  
@@ -99,6 +100,10 @@ Pugbutts Official Robot has a variety of commands, including:
 - !:isitdown (url) - Checks if a website is down
 
 - !:showblacklist - Shows the current blacklist
+
+- !:submitserver - Submits your server for partnership!
+
+- !:announce (text) (management-role only) - Sends an announcement!
 
 
 ## Roles  
